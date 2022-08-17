@@ -1,4 +1,3 @@
-# Hi there 👋 
 # My name is Jahmaal!
 # I'm an upcoming CyberSecurity Professional
 
