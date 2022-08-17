@@ -1,6 +1,5 @@
-# Hi there 👋
-# My name is Jahmaal!
-# I am a Upcoming CyberSecurity Proffessional, Programmer, youtuber 
+# Hi there 👋 My name is Jahmaal!
+# Upcoming CyberSecurity Professional
 
 ## Cyber Security Intern Projects:
 [CyberSecurity](https://github.com/jahmaalrussell/Cyber-Security-Projects)
