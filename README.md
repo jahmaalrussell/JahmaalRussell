@@ -1,4 +1,4 @@
-# My name is Jahmaal!
+# Hi, my name is Jahmaal Russell!
 # I'm an upcoming CyberSecurity Professional
 
 ## 🏅Work Experience:
