@@ -1,9 +1,7 @@
 ### Hi there 👋
-
-<!--
-**jahmaalrussell/JahmaalRussell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+# My name is Jahmaal!
+# I am a Upcoming CyberSecurity Proffessional, Programmer, youtuber
+# Below I have Posted the Current Projects that I am working on to further my Career In CyberSecurity
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
