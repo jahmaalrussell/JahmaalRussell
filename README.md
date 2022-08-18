@@ -2,9 +2,11 @@
 # I'm an upcoming CyberSecurity Professional
 
 ## 🏅Work Experience:
-Cyber Operations Intern at Alamo City Engineering Services (ACES):
+Intern Projects:
 
-[Intern Projects](https://github.com/jahmaalrussell/Cyber-Security-Projects)
+[Cyber Security](https://github.com/jahmaalrussell/Cyber-Security-Projects)
+[Networking](https://github.com/jahmaalrussell/Cyber-Security-Projects)
+[Networking Services](https://github.com/jahmaalrussell/Cyber-Security-Projects)
 
 ## 🏫 School Projects:
 
