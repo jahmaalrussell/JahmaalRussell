@@ -8,7 +8,7 @@ Cyber Operations Intern at Alamo City Engineering Services (ACES):
 
 ## 🏫 School Projects:
 
-[Scrioting in Bash](https://github.com/jahmaalrussell/UnlockingCyber-1003)
+[Scripting in Bash](https://github.com/jahmaalrussell/UnlockingCyber-1003)
 
 ## 📲 Connect with me:
 https://www.linkedin.com/in/jahmaalrussell/
