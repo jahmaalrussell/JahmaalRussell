@@ -8,5 +8,5 @@ Cyber Operations Intern at Alamo City Engineering Services (ACES):
 
 ## 🏫 School Projects:
 
-## Connect with me:
+## 📲 Connect with me:
 https://www.linkedin.com/in/jahmaalrussell/
