@@ -1,6 +1,10 @@
 # Hi, my name is Jahmaal Russell!
 # Upcoming CyberSecurity Professional
 
+## Education:
+
+Bachelor of Business Administration in CyberSecurity
+
 ## 🏅Work Experience:
 ### Intern Projects:
 
