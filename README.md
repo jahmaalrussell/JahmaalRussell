@@ -3,7 +3,7 @@
 
 ## Education:
 
-Bachelor of Business Administration in CyberSecurity
+Bachelor of Business Administration in CyberSecurity UTSA
 
 ## 🏅Work Experience:
 ### Intern Projects:
