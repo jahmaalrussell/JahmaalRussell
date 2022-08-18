@@ -6,9 +6,9 @@ Intern Projects:
 
 [Cyber Security](https://github.com/jahmaalrussell/Cyber-Security-Projects)
 
-[Networking](https://github.com/jahmaalrussell/Cyber-Security-Projects)
+[Networking](https://github.com/jahmaalrussell/Networking-Projects)
 
-[Networking Services](https://github.com/jahmaalrussell/Cyber-Security-Projects)
+[Networking Services](https://github.com/jahmaalrussell/Networking-Services-Projects)
 
 ## 🏫 School Projects:
 
