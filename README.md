@@ -4,11 +4,11 @@
 ## 🏅Work Experience:
 Intern Projects:
 
-[Cyber Security](https://github.com/jahmaalrussell/Cyber-Security-Projects)
+[Cyber Security](https://github.com/jahmaalrussell/Cyber-Security)
 
-[Networking](https://github.com/jahmaalrussell/Networking-Projects)
+[Networking](https://github.com/jahmaalrussell/Networking)
 
-[Networking Services](https://github.com/jahmaalrussell/Networking-Services-Projects)
+[Networking Services](https://github.com/jahmaalrussell/Networking-Services)
 
 ## 🏫 School Projects:
 
