@@ -1,5 +1,5 @@
 # Hi, my name is Jahmaal Russell!
-# I'm an upcoming CyberSecurity Professional
+# Upcoming CyberSecurity Professional
 
 ## 🏅Work Experience:
 ### Intern Projects:
