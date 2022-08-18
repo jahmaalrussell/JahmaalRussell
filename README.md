@@ -3,7 +3,7 @@
 
 ## Education:
 
-Bachelor of Business Administration in CyberSecurity | University of Texas at San Antonio
+Bachelor of Business Administration in CyberSecurity, University of Texas at San Antonio (UTSA)
 
 ## 🏅Work Experience:
 ### Intern Projects:
