@@ -1,4 +1,4 @@
-## Hello :wave:
+## :wave:
 
 ## 🏅Work Experience:
 ### Intern Projects:
