@@ -1,4 +1,3 @@
-## 👋 :wave:
 
 ## 🏅Work Experience:
 ### Intern Projects:
